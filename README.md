@@ -1,71 +1,116 @@
-[# Hi, I'm Naveen Pandu Kavalakoppa 👋
+<h1 align="center">Hi 👋, I'm Naveen Pandu Kavalakoppa</h1>
+<h3 align="center">Software Developer | Python Developer | Backend & Full Stack Enthusiast</h3>
 
-**Software Developer | Python Developer | Backend & Full Stack Enthusiast**
+<p align="center">
+  <a href="https://github.com/Naveen-Ka31">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Python+Developer;Backend+Developer;Full+Stack+Enthusiast;Open+to+Software+Engineering+Roles" alt="Typing SVG"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science and Engineering Graduate
-
-💻 Passionate about Software Development, Backend Engineering, and Building Scalable Web Applications
-
-🌱 Currently expanding my expertise in Python, Django, REST APIs, React, and Software Engineering
-
-🧠 Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks
-
-🚀 Interested in Backend Development, AI-based Applications, and Product-Based Companies
-
-🤝 Open to Software Development, Backend Engineering, and Full Stack opportunities
-
----
-
-## 💼 Professional Summary
-
-Software Developer with a strong foundation in **Python, Django, REST APIs, React, MySQL, Data Structures, and Object-Oriented Programming**. Experienced in developing scalable web applications and AI-powered solutions through academic projects. Passionate about writing clean code, solving real-world problems, and continuously learning modern technologies.
+- 🎓 Bachelor of Engineering in Computer Science & Engineering
+- 💻 Passionate about Software Development and Backend Engineering
+- 🌱 Currently learning advanced Backend Development and Full Stack technologies
+- 🚀 Interested in Product-Based Companies
+- 🧠 Strong in Python, Django, REST APIs, MySQL, OOP, DBMS and DSA
+- 🤝 Open to Software Engineering opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages        ### 🌐 Backend       ### 🎨 Frontend      ### 🗄️ Database        ### ⚒️ Tools
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+</p>
 
-* Python                 * Django             * React Native        * MySQL                  * Git
-* Java                   * REST APIs          * HTML5               * Firebase               * GitHub
-* JavaScript             * Django ORM         * CSS3                                         * Azure DevOps
-* SQL                                                                                         * VS Code                     
+### Backend & Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,html,css" />
+</p>
 
-### 📚 Core Computer Science
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Operating Systems
-* Computer Networks
-* Software Engineering
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏢 Employee Leave Management System
-
-* Developed a comprehensive Leave Management System using **Python, Django, and MySQL**.
-* Implemented secure role-based authentication and automated leave approval workflows.
-* Designed scalable backend modules following Django ORM and REST API best practices.
+- Python, Django & MySQL
+- Role-based authentication
+- Leave approval workflow
+- REST architecture
 
 ### 👁️ AI for Blind Assistance
-
-* Built an AI-powered assistive application using **Python, YOLOv5, and BLIP**.
-* Integrated real-time object detection, image captioning, and Text-to-Speech (TTS) features to improve accessibility.
+- Python
+- YOLOv5
+- BLIP
+- Text-to-Speech
+- Computer Vision
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Analytics
 
-📧 **Email:** [naveenkavalakoppa@gmail.com](mailto:naveenkavalakoppa@gmail.com)
+> **Replace `YOUR_USERNAME` with `Naveen-Ka31` if needed.**
 
-💼 **LinkedIn:** https://linkedin.com/in/naveenka31
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveen-Ka31&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Ka31&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-⭐ "Always learning, always building"
-](https://github.com/Teju-ks)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Naveen-Ka31&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Naveen-Ka31&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Ka31&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="mailto:naveenkavalakoppa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/naveenka31">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Naveen-Ka31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Naveen-Ka31&style=for-the-badge&color=0e75b6)
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
