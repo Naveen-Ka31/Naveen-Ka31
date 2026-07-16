@@ -1,4 +1,4 @@
-# Hi, I'm Naveen Pandu Kavalakoppa 👋
+[# Hi, I'm Naveen Pandu Kavalakoppa 👋
 
 **Software Developer | Python Developer | Backend & Full Stack Enthusiast**
 
@@ -68,3 +68,4 @@ Software Developer with a strong foundation in **Python, Django, REST APIs, Reac
 💼 **LinkedIn:** https://linkedin.com/in/naveenka31
 
 ⭐ "Always learning, always building"
+](https://github.com/Teju-ks)
