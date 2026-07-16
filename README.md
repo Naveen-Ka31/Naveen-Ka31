@@ -28,36 +28,12 @@ Software Developer with a strong foundation in **Python, Django, REST APIs, Reac
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Languages        ### 🌐 Backend       ### 🎨 Frontend      ### 🗄️ Database        ### ⚒️ Tools
 
-* Python
-* Java
-* JavaScript
-* SQL
-
-### 🌐 Backend
-
-* Django
-* REST APIs
-* Django ORM
-
-### 🎨 Frontend
-
-* React Native
-* HTML5
-* CSS3
-
-### 🗄️ Database
-
-* MySQL
-* Firebase
-
-### ⚒️ Tools
-
-* Git
-* GitHub
-* Azure DevOps
-* VS Code
+* Python                 * Django             * React Native        * MySQL                  * Git
+* Java                   * REST APIs          * HTML5               * Firebase               * GitHub
+* JavaScript             * Django ORM         * CSS3                                         * Azure DevOps
+* SQL                                                                                         * VS Code                     
 
 ### 📚 Core Computer Science
 
@@ -85,40 +61,10 @@ Software Developer with a strong foundation in **Python, Django, REST APIs, Reac
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Engineering (Computer Science & Engineering)**
-🏫 Government Engineering College, Hassan
-
-🎯 **CGPA:** 8.56 / 10
-
----
-
-## 🏆 Certifications
-
-* Applied AI Practical Implementation – EduNet Foundation
-* Power BI for Data Analytics – Vodafone VOIS
-
----
-
-## 📊 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen-Ka31&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen--ka31&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-```
-
----
-
 ## 📫 Let's Connect
 
 📧 **Email:** [naveenkavalakoppa@gmail.com](mailto:naveenkavalakoppa@gmail.com)
 
 💼 **LinkedIn:** https://linkedin.com/in/naveenka31
 
-⭐ *"Always learning, always building, and always improving as a software developer."*
+⭐ "Always learning, always building"
