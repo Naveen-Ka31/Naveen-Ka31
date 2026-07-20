@@ -39,22 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏢 Employee Leave Management System
-- Python, Django & MySQL
-- Role-based authentication
-- Leave approval workflow
-- REST architecture
-
-### 👁️ AI for Blind Assistance
-- Python
-- YOLOv5
-- BLIP
-- Text-to-Speech
-- Computer Vision
-
----
 
 ## 📊 GitHub Analytics
 
